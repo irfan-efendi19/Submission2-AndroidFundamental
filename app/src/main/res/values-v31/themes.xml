@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/github_logo</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.GitHubUser</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/brand</item>
+    </style>
+</resources>
